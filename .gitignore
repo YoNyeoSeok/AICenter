@@ -3,3 +3,4 @@ test/
 CIFAR-10/*.py
 CIFAR-10/*.png
 CIFAR-10/*.gz
+CIFAR-10/cifar*
